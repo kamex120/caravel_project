@@ -1,0 +1,175 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="24.8.4">
+  <diagram name="ページ1" id="ClprEhXhKzN9y4iarDeJ">
+    <mxGraphModel dx="3218" dy="2179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-1" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-2" target="xYTQ7k9-s8iIQzj727ZT-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-2" value="存立危機&lt;div&gt;っぽい感じ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-169" y="-95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QBfCtogb31d_tJmrI74Q-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xYTQ7k9-s8iIQzj727ZT-4" target="QBfCtogb31d_tJmrI74Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-4" value="武力攻撃&lt;div&gt;（切迫／発生）&lt;/div&gt;&lt;div&gt;っぽい感じ&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="99" y="-95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-6" target="xYTQ7k9-s8iIQzj727ZT-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-6" value="武力攻撃予測事態&lt;div&gt;っぽい感じ&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="-95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-7" value="&lt;div&gt;存立危機事態認定&lt;br&gt;&lt;/div&gt;防衛出動命令" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-171" y="334" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-9" target="xYTQ7k9-s8iIQzj727ZT-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-9" value="&lt;div&gt;武力攻撃事態認定&lt;br&gt;&lt;/div&gt;防衛出動命令" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="102.5" y="334" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-11" target="xYTQ7k9-s8iIQzj727ZT-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-11" value="防衛出動待機命令" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="147" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-13" target="xYTQ7k9-s8iIQzj727ZT-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-13" value="我が国に対する急迫不正の侵害があること、&lt;div&gt;すなわち武力攻撃が発生した？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="18" y="433" width="289" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-15" target="xYTQ7k9-s8iIQzj727ZT-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-15" value="この場合にこれを排除するために&lt;div&gt;他の適当な手段がないか？&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="18" y="536" width="289" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-17" target="xYTQ7k9-s8iIQzj727ZT-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-17" value="&lt;div&gt;必要最小限度の実力行使か？&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="17.5" y="646" width="289" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-19" target="xYTQ7k9-s8iIQzj727ZT-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-19" value="自衛権行使&lt;div&gt;＝武力の行使&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="102" y="761" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-21" target="xYTQ7k9-s8iIQzj727ZT-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-21" value="？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="122.5" y="853" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-22" value="武器の試用" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="102.5" y="961" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-24" target="xYTQ7k9-s8iIQzj727ZT-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-24" value="武力攻撃を受けた国の要請&lt;div&gt;又は同意がある？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-234" y="-12" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-28" target="xYTQ7k9-s8iIQzj727ZT-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-28" target="xYTQ7k9-s8iIQzj727ZT-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-27" value="同時に武力攻撃事態等&lt;div&gt;にも該当している場合&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="xYTQ7k9-s8iIQzj727ZT-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.5282" relative="1" as="geometry">
+            <mxPoint y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-28" value="武力攻撃事態等に該当していない？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-234" y="93" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-29" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-30" target="xYTQ7k9-s8iIQzj727ZT-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-30" value="&lt;div&gt;対処基本方針&lt;/div&gt;国会の事前承認？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-236" y="207" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-31" value="防御施設構築の措置" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="345" y="261" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-34" target="xYTQ7k9-s8iIQzj727ZT-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158.99999999999977" y="115.28571428571445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-34" target="xYTQ7k9-s8iIQzj727ZT-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-34" value="特に緊急？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="119" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-36" target="xYTQ7k9-s8iIQzj727ZT-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-36" value="&lt;div&gt;対処基本方針&lt;/div&gt;国会承認" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="192" y="190" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-37" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-38" target="xYTQ7k9-s8iIQzj727ZT-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-38" value="緊急対処事態&lt;div&gt;っぽい感じ&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="528" y="-95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QBfCtogb31d_tJmrI74Q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xYTQ7k9-s8iIQzj727ZT-40" target="xYTQ7k9-s8iIQzj727ZT-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-40" value="対処方針&lt;div&gt;閣議決定？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="548" y="8" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-43" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-44" target="xYTQ7k9-s8iIQzj727ZT-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-44" value="&lt;div&gt;緊急対処事態認定&lt;/div&gt;緊急対処措置" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="528" y="217" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-48" target="xYTQ7k9-s8iIQzj727ZT-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-46" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="xYTQ7k9-s8iIQzj727ZT-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.0253" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-48" target="xYTQ7k9-s8iIQzj727ZT-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="420" />
+              <mxPoint x="696" y="420" />
+              <mxPoint x="696" y="-139" />
+              <mxPoint x="159" y="-139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-48" value="武力攻撃事態&lt;div&gt;っぽい？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="524" y="318" width="131" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="xYTQ7k9-s8iIQzj727ZT-50" target="xYTQ7k9-s8iIQzj727ZT-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xYTQ7k9-s8iIQzj727ZT-50" value="内閣総理大臣承認？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="365" y="21" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QBfCtogb31d_tJmrI74Q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QBfCtogb31d_tJmrI74Q-3" target="xYTQ7k9-s8iIQzj727ZT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBfCtogb31d_tJmrI74Q-3" value="対処基本方針&lt;div&gt;閣議決定&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" width="79" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
